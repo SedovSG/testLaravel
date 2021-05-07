@@ -27,6 +27,18 @@ $: cd testLaravel && composer install
 $: php artisan mysql:createdb
 ```
 
+### Run migrates
+
+```bash
+$: php artisan migrate
+```
+
+### Serve project
+
+```bash
+$: php artisan serve
+```
+
 ### View list routes
 
 ```bash
